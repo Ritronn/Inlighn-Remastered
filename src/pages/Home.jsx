@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import WhoWeAre from '../components/whoarewe';
+import WhoWeAre from '../components/Whoarewe';
 import AnimatedStatsSection from '../components/AnimatedStatsSection';
 
 
